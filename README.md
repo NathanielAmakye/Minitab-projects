@@ -1,0 +1,2 @@
+# Minitab-projects
+Statistiscal data
